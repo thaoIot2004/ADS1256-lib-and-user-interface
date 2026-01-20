@@ -63,7 +63,7 @@ Dự án này xây dựng một **nền tảng đo lường và thu thập dữ 
 
 ### Phần mềm
 
-- Raspberry Pi OS (Bullseye hoặc mới hơn)
+- Raspberry Pi OS 
 - Python 3.8+
 - GCC Compiler
 - Thư viện pigpio
