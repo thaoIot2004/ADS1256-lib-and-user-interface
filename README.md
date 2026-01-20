@@ -72,7 +72,8 @@ Dự án này xây dựng một **nền tảng đo lường và thu thập dữ 
 
 **Tác giả:** Phan Thanh Thảo
 
-- 📧 Email: thaohocgioi001@gmail.com
+- Email: thaohocgioi001@gmail.com
+- Video demo: https://www.youtube.com/watch?v=3cSE0Y2A1-Q
 
 <div align="center">
 </div>
