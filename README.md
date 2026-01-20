@@ -17,18 +17,12 @@
 
 - [Giới thiệu](#-giới-thiệu)
 - [Tính năng](#-tính-năng)
-- [Kiến trúc hệ thống](#-kiến-trúc-hệ-thống)
 - [Yêu cầu hệ thống](#-yêu-cầu-hệ-thống)
-- [Cài đặt](#-cài-đặt)
-- [Sử dụng](#-sử-dụng)
-- [Cấu trúc thư mục](#-cấu-trúc-thư-mục)
-- [Đóng góp](#-đóng-góp)
-- [Giấy phép](#-giấy-phép)
 - [Liên hệ](#-liên-hệ)
 
 ---
 
-## 🎯 Giới thiệu
+## Giới thiệu
 
 Cách mạng Công nghiệp 4.0 đang tạo ra sự chuyển đổi sâu rộng trong lĩnh vực sản xuất công nghiệp thông qua sự hội tụ của các công nghệ số tiên tiến. Sự phát triển của Internet tốc độ cao, các chuẩn kết nối không dây thế hệ mới và khả năng xử lý, lưu trữ dữ liệu lớn đã thúc đẩy quá trình số hóa và tự động hóa toàn diện.
 
@@ -39,7 +33,7 @@ Dự án này xây dựng một **nền tảng đo lường và thu thập dữ 
 - Triển khai các chiến lược tối ưu hóa vận hành và bảo trì dự đoán
 - Quản lý hiệu suất thiết bị một cách hiệu quả
 
-### 🎓 Phạm vi đồ án
+### Phạm vi đồ án
 
 Đồ án tập trung vào hai thành phần chính:
 
@@ -48,7 +42,7 @@ Dự án này xây dựng một **nền tảng đo lường và thu thập dữ 
 
 ---
 
-## ✨ Tính năng
+## Tính năng
 
 - **Thư viện C hiệu năng cao** cho module ADC ADS1256
 - **Giao diện người dùng thân thiện** được xây dựng bằng Python
